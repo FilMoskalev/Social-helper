@@ -1,0 +1,163 @@
+F:\coding\Social Helper\Social Helper\bin\ApplicationInsights.config
+F:\coding\Social Helper\Social Helper\bin\roslyn\csc.exe
+F:\coding\Social Helper\Social Helper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\coding\Social Helper\Social Helper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\coding\Social Helper\Social Helper\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\coding\Social Helper\Social Helper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\coding\Social Helper\Social Helper\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\coding\Social Helper\Social Helper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\coding\Social Helper\Social Helper\bin\roslyn\System.Collections.Immutable.dll
+F:\coding\Social Helper\Social Helper\bin\roslyn\System.Reflection.Metadata.dll
+F:\coding\Social Helper\Social Helper\bin\roslyn\vbc.exe
+F:\coding\Social Helper\Social Helper\bin\roslyn\VBCSCompiler.exe
+F:\coding\Social Helper\Social Helper\bin\roslyn\VBCSCompiler.exe.config
+F:\coding\Social Helper\Social Helper\bin\Social Helper.dll.config
+F:\coding\Social Helper\Social Helper\bin\Social Helper.dll
+F:\coding\Social Helper\Social Helper\bin\Social Helper.pdb
+F:\coding\Social Helper\Social Helper\bin\Antlr3.Runtime.dll
+F:\coding\Social Helper\Social Helper\bin\EntityFramework.dll
+F:\coding\Social Helper\Social Helper\bin\EntityFramework.SqlServer.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.Agent.Intercept.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.DependencyCollector.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.Web.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.WindowsServer.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.ApplicationInsights.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AspNet.Identity.Core.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Cookies.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Facebook.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Google.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.OAuth.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Twitter.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Web.Infrastructure.dll
+F:\coding\Social Helper\Social Helper\bin\Newtonsoft.Json.dll
+F:\coding\Social Helper\Social Helper\bin\Owin.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.Helpers.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.Mvc.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.Optimization.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.Razor.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.WebPages.Deployment.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.WebPages.dll
+F:\coding\Social Helper\Social Helper\bin\System.Web.WebPages.Razor.dll
+F:\coding\Social Helper\Social Helper\bin\WebGrease.dll
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.DependencyCollector.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.Web.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AI.WindowsServer.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.ApplicationInsights.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.Helpers.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.Mvc.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.Optimization.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.Razor.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.WebPages.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.WebPages.Deployment.xml
+F:\coding\Social Helper\Social Helper\bin\System.Web.WebPages.Razor.xml
+F:\coding\Social Helper\Social Helper\bin\Antlr3.Runtime.pdb
+F:\coding\Social Helper\Social Helper\bin\Newtonsoft.Json.xml
+F:\coding\Social Helper\Social Helper\bin\EntityFramework.xml
+F:\coding\Social Helper\Social Helper\bin\EntityFramework.SqlServer.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AspNet.Identity.Core.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Facebook.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Cookies.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.OAuth.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Google.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.Twitter.xml
+F:\coding\Social Helper\Social Helper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\coding\Social Helper\Social Helper\obj\Debug\Social Helper.csprojResolveAssemblyReference.cache
+F:\coding\Social Helper\Social Helper\obj\Debug\Social Helper.dll
+F:\coding\Social Helper\Social Helper\obj\Debug\Social Helper.pdb
+F:\coding\Social-helper\Social Helper\bin\ApplicationInsights.config
+F:\coding\Social-helper\Social Helper\bin\roslyn\csc.exe
+F:\coding\Social-helper\Social Helper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\coding\Social-helper\Social Helper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\coding\Social-helper\Social Helper\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\coding\Social-helper\Social Helper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\coding\Social-helper\Social Helper\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\coding\Social-helper\Social Helper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\coding\Social-helper\Social Helper\bin\roslyn\System.Collections.Immutable.dll
+F:\coding\Social-helper\Social Helper\bin\roslyn\System.Reflection.Metadata.dll
+F:\coding\Social-helper\Social Helper\bin\roslyn\vbc.exe
+F:\coding\Social-helper\Social Helper\bin\roslyn\VBCSCompiler.exe
+F:\coding\Social-helper\Social Helper\bin\roslyn\VBCSCompiler.exe.config
+F:\coding\Social-helper\Social Helper\bin\Social Helper.dll.config
+F:\coding\Social-helper\Social Helper\bin\Social Helper.dll
+F:\coding\Social-helper\Social Helper\bin\Social Helper.pdb
+F:\coding\Social-helper\Social Helper\bin\Antlr3.Runtime.dll
+F:\coding\Social-helper\Social Helper\bin\EntityFramework.dll
+F:\coding\Social-helper\Social Helper\bin\EntityFramework.SqlServer.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.Agent.Intercept.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.DependencyCollector.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.Web.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.WindowsServer.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.ApplicationInsights.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AspNet.Identity.Core.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Cookies.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Facebook.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Google.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.OAuth.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Twitter.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Web.Infrastructure.dll
+F:\coding\Social-helper\Social Helper\bin\Newtonsoft.Json.dll
+F:\coding\Social-helper\Social Helper\bin\Owin.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.Helpers.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.Mvc.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.Optimization.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.Razor.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.WebPages.Deployment.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.WebPages.dll
+F:\coding\Social-helper\Social Helper\bin\System.Web.WebPages.Razor.dll
+F:\coding\Social-helper\Social Helper\bin\WebGrease.dll
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.DependencyCollector.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.Web.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AI.WindowsServer.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.ApplicationInsights.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.Helpers.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.Mvc.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.Optimization.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.Razor.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.WebPages.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.WebPages.Deployment.xml
+F:\coding\Social-helper\Social Helper\bin\System.Web.WebPages.Razor.xml
+F:\coding\Social-helper\Social Helper\bin\Antlr3.Runtime.pdb
+F:\coding\Social-helper\Social Helper\bin\Newtonsoft.Json.xml
+F:\coding\Social-helper\Social Helper\bin\EntityFramework.xml
+F:\coding\Social-helper\Social Helper\bin\EntityFramework.SqlServer.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AspNet.Identity.Core.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Facebook.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Cookies.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.OAuth.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Google.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.Twitter.xml
+F:\coding\Social-helper\Social Helper\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\coding\Social-helper\Social Helper\obj\Debug\Social Helper.dll
+F:\coding\Social-helper\Social Helper\obj\Debug\Social Helper.pdb

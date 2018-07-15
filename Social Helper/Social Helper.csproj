@@ -208,7 +208,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
-        <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\css\animate.css" />
     <Content Include="Content\css\bootstrap.css" />
@@ -260,26 +260,20 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Scripts\ai.0.22.9-build00167.js" />
-    <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\css\.DS_Store" />
     <Content Include="Content\css\bootstrap.css.map" />
     <Content Include="Content\css\style.css.map" />
-    <Content Include="Content\fonts\.DS_Store" />
     <Content Include="Content\fonts\bootstrap\glyphicons-halflings-regular.eot" />
     <Content Include="Content\fonts\bootstrap\glyphicons-halflings-regular.ttf" />
     <Content Include="Content\fonts\bootstrap\glyphicons-halflings-regular.woff" />
     <Content Include="Content\fonts\bootstrap\glyphicons-halflings-regular.woff2" />
-    <Content Include="Content\fonts\icomoon\.DS_Store" />
     <Content Include="Content\fonts\icomoon\icomoon.eot" />
     <Content Include="Content\fonts\icomoon\icomoon.ttf" />
     <Content Include="Content\fonts\icomoon\icomoon.woff" />
-    <Content Include="Content\fonts\icomoon\icomoon\.DS_Store" />
     <Content Include="Content\fonts\icomoon\icomoon\fonts\icomoon.eot" />
     <Content Include="Content\fonts\icomoon\icomoon\fonts\icomoon.ttf" />
     <Content Include="Content\fonts\icomoon\icomoon\fonts\icomoon.woff" />
@@ -288,9 +282,6 @@
     <Content Include="Content\fonts\simple-line-icons\Simple-Line-Icons.ttf" />
     <Content Include="Content\fonts\simple-line-icons\Simple-Line-Icons.woff" />
     <Content Include="Content\fonts\simple-line-icons\Simple-Line-Icons.woff2" />
-    <Content Include="Content\images\.DS_Store" />
-    <Content Include="Content\js\.DS_Store" />
-    <Content Include="Content\sass\.DS_Store" />
     <Content Include="Content\sass\bootstrap.scss" />
     <Content Include="Content\sass\bootstrap\mixins\_alerts.scss" />
     <Content Include="Content\sass\bootstrap\mixins\_background-variant.scss" />
@@ -427,13 +418,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\css\" />
-    <Folder Include="Content\fonts\" />
-    <Folder Include="Content\images\" />
-    <Folder Include="Content\js\" />
-    <Folder Include="Content\sass\" />
   </ItemGroup>
-  
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />

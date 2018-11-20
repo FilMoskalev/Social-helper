@@ -1,0 +1,18 @@
+using System.Web.Mvc;
+
+namespace SocialHelper.Controllers
+{
+  public class BlogRuController : Controller
+  {
+    // GET
+    public ActionResult Index()
+    {
+      return View();
+    }
+    
+    public ActionResult HowToInstall()
+    {
+      return View();
+    }
+  }
+}

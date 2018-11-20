@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb52d37f-edf6-4d1a-972a-2070c4a0a911" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SocialHelper/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SocialHelper/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SocialHelper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SocialHelper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SocialHelper/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialHelper/Controllers/BlogRuController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialHelper/Views/BlogRu/HowToInstall.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialHelper/Views/BlogRu/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SocialHelper/Views/Home/PrivacyPolicy.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/Social Helper/v14/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/App_Start/BundleConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/App_Start/FilterConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/App_Start/IdentityConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/App_Start/RouteConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/App_Start/Startup.Auth.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/ApplicationInsights.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/simple-line-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/Read Me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/demo-files/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/demo-files/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/selection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/icomoon/icomoon/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/simple-line-icons/Simple-Line-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/simple-line-icons/Simple-Line-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/simple-line-icons/Simple-Line-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/simple-line-icons/Simple-Line-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/fonts/simple-line-icons/Simple-Line-Icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/blog-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/blog-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/blog-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/full_image_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/full_image_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/portfolio-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/user-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/user-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/user-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/user-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/user-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/images/user-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/jquery.countTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/modernizr-2.6.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/_bootstrap-compass.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/_bootstrap-mincer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/_bootstrap-sprockets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_button-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_component-animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_glyphicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_input-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_pager.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_progress-bars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_responsive-embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_responsive-utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_thumbnails.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/_wells.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_center-block.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_hide-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_opacity.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_progress-bar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_reset-filter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_tab-focus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_text-overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Content/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Controllers/AccountController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Controllers/HomeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Controllers/ManageController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Global.asax" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Global.asax.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Models/AccountViewModels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Models/IdentityModels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Models/ManageViewModels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Project_Readme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/_references.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery-1.10.2.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery-1.10.2.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery.validate-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/modernizr-2.6.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/respond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Scripts/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Social Helper.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Social Helper.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ConfirmEmail.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ExternalLoginConfirmation.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ExternalLoginFailure.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ForgotPassword.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ForgotPasswordConfirmation.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/Login.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/Register.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ResetPassword.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/ResetPasswordConfirmation.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/SendCode.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/VerifyCode.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Account/_ExternalLoginsListPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Home/About.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Home/Contact.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Home/PrivacyPolicy.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Home/Ru.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Manage/AddPhoneNumber.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Manage/ChangePassword.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Manage/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Manage/ManageLogins.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Manage/SetPassword.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Manage/VerifyPhoneNumber.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Shared/Error.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Shared/Lockout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Shared/_Layout.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Shared/_LoginPartial.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Web.Debug.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Web.Release.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/Web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Antlr3.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Antlr3.Runtime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/ApplicationInsights.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/EntityFramework.SqlServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/EntityFramework.SqlServer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/EntityFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/EntityFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.Agent.Intercept.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.DependencyCollector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.DependencyCollector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.PerfCounterCollector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.ServerTelemetryChannel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.ServerTelemetryChannel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.Web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.WindowsServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AI.WindowsServer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.ApplicationInsights.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AspNet.Identity.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AspNet.Identity.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AspNet.Identity.EntityFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AspNet.Identity.EntityFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AspNet.Identity.Owin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.AspNet.Identity.Owin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Host.SystemWeb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Host.SystemWeb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Cookies.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Cookies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Facebook.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Facebook.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Google.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Google.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.MicrosoftAccount.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.MicrosoftAccount.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.OAuth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.OAuth.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Twitter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.Twitter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.Security.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Owin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Microsoft.Web.Infrastructure.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Owin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Social Helper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Social Helper.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/Social Helper.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Helpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Helpers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Optimization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Optimization.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.WebPages.Deployment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.WebPages.Deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.WebPages.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.WebPages.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.WebPages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/System.Web.WebPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/WebGrease.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/csc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/bin/roslyn/vbc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/Social Helper.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/Social Helper.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/Social Helper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/Social Helper.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Social Helper/packages.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Antlr.3.4.1.9004/Antlr.3.4.1.9004.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/EntityFramework.6.1.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/content/App.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/content/Web.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net40/EntityFramework.SqlServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net40/EntityFramework.SqlServer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net40/EntityFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net40/EntityFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/EntityFramework.PowerShell.Utility.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/EntityFramework.PowerShell.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/EntityFramework.psd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/EntityFramework.psm1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/about_EntityFramework.help.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/init.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/EntityFramework.6.1.3/tools/migrate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/Microsoft.ApplicationInsights.2.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/net40/Microsoft.ApplicationInsights.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/net40/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/net45/Microsoft.ApplicationInsights.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/net45/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/net46/Microsoft.ApplicationInsights.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/net46/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/netstandard1.5/Microsoft.ApplicationInsights.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/netstandard1.5/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/portable-win81+wpa81/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/uap10.0/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.2.2.0/lib/wp8/Microsoft.ApplicationInsights.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Agent.Intercept.2.0.6/Microsoft.ApplicationInsights.Agent.Intercept.2.0.6.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Agent.Intercept.2.0.6/lib/net40/Microsoft.AI.Agent.Intercept.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Agent.Intercept.2.0.6/lib/net45/Microsoft.AI.Agent.Intercept.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/Microsoft.ApplicationInsights.DependencyCollector.2.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/content/ApplicationInsights.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/content/ApplicationInsights.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/content/ApplicationInsights.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/lib/net40/Microsoft.AI.DependencyCollector.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/lib/net40/Microsoft.AI.DependencyCollector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/lib/net45/Microsoft.AI.DependencyCollector.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.DependencyCollector.2.2.0/lib/net45/Microsoft.AI.DependencyCollector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0/content/ApplicationInsights.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0/content/ApplicationInsights.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0/content/ApplicationInsights.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0/lib/net40/Microsoft.AI.PerfCounterCollector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0/lib/net45/Microsoft.AI.PerfCounterCollector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/Microsoft.ApplicationInsights.Web.2.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/ApplicationInsights.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/ApplicationInsights.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/ApplicationInsights.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net40/web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net45/ApplicationInsights.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net45/ApplicationInsights.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net45/ApplicationInsights.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net45/web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/content/net45/web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/lib/net40/Microsoft.AI.Web.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/lib/net40/Microsoft.AI.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/lib/net45/Microsoft.AI.Web.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.Web.2.2.0/lib/net45/Microsoft.AI.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/Microsoft.ApplicationInsights.WindowsServer.2.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/content/ApplicationInsights.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/content/ApplicationInsights.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/content/ApplicationInsights.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/lib/net40/Microsoft.AI.WindowsServer.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/lib/net40/Microsoft.AI.WindowsServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/lib/net45/Microsoft.AI.WindowsServer.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/lib/net45/Microsoft.AI.WindowsServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/content/ApplicationInsights.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/content/ApplicationInsights.config.transform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/content/ApplicationInsights.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/lib/net40/Microsoft.AI.ServerTelemetryChannel.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/lib/net40/Microsoft.AI.ServerTelemetryChannel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/lib/net45/Microsoft.AI.ServerTelemetryChannel.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0/lib/net45/Microsoft.AI.ServerTelemetryChannel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.Core.2.2.1/Microsoft.AspNet.Identity.Core.2.2.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.Core.2.2.1/lib/net45/Microsoft.AspNet.Identity.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.Core.2.2.1/lib/net45/Microsoft.AspNet.Identity.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.EntityFramework.2.2.1/Microsoft.AspNet.Identity.EntityFramework.2.2.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.EntityFramework.2.2.1/lib/net45/Microsoft.AspNet.Identity.EntityFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.EntityFramework.2.2.1/lib/net45/Microsoft.AspNet.Identity.EntityFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.Owin.2.2.1/Microsoft.AspNet.Identity.Owin.2.2.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.Owin.2.2.1/lib/net45/Microsoft.AspNet.Identity.Owin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Identity.Owin.2.2.1/lib/net45/Microsoft.AspNet.Identity.Owin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Mvc.5.2.3/Microsoft.AspNet.Mvc.5.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Razor.3.2.3/Microsoft.AspNet.Razor.3.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/Microsoft.AspNet.WebPages.3.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/build/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/init.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/Microsoft.Net.Compilers.1.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/ThirdPartyNotices.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/build/Microsoft.Net.Compilers.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CSharp.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.VisualBasic.Core.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/csc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Net.Compilers.1.0.0/tools/vbc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.3.0.1/Microsoft.Owin.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.3.0.1/lib/net45/Microsoft.Owin.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.3.0.1/lib/net45/Microsoft.Owin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Host.SystemWeb.3.0.1/Microsoft.Owin.Host.SystemWeb.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Host.SystemWeb.3.0.1/lib/net45/Microsoft.Owin.Host.SystemWeb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Host.SystemWeb.3.0.1/lib/net45/Microsoft.Owin.Host.SystemWeb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.3.0.1/Microsoft.Owin.Security.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.3.0.1/lib/net45/Microsoft.Owin.Security.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.3.0.1/lib/net45/Microsoft.Owin.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Cookies.3.0.1/Microsoft.Owin.Security.Cookies.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Cookies.3.0.1/lib/net45/Microsoft.Owin.Security.Cookies.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Cookies.3.0.1/lib/net45/Microsoft.Owin.Security.Cookies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Facebook.3.0.1/Microsoft.Owin.Security.Facebook.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Facebook.3.0.1/lib/net45/Microsoft.Owin.Security.Facebook.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Facebook.3.0.1/lib/net45/Microsoft.Owin.Security.Facebook.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Google.3.0.1/Microsoft.Owin.Security.Google.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Google.3.0.1/lib/net45/Microsoft.Owin.Security.Google.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Google.3.0.1/lib/net45/Microsoft.Owin.Security.Google.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.1/Microsoft.Owin.Security.MicrosoftAccount.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.1/lib/net45/Microsoft.Owin.Security.MicrosoftAccount.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.MicrosoftAccount.3.0.1/lib/net45/Microsoft.Owin.Security.MicrosoftAccount.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.OAuth.3.0.1/Microsoft.Owin.Security.OAuth.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.OAuth.3.0.1/lib/net45/Microsoft.Owin.Security.OAuth.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.OAuth.3.0.1/lib/net45/Microsoft.Owin.Security.OAuth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Twitter.3.0.1/Microsoft.Owin.Security.Twitter.3.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Twitter.3.0.1/lib/net45/Microsoft.Owin.Security.Twitter.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Owin.Security.Twitter.3.0.1/lib/net45/Microsoft.Owin.Security.Twitter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Microsoft.jQuery.Unobtrusive.Validation.3.2.3.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Modernizr.2.6.2/Content/Scripts/modernizr-2.6.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Modernizr.2.6.2/Modernizr.2.6.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Modernizr.2.6.2/Tools/common.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Modernizr.2.6.2/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Modernizr.2.6.2/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/portable-net40%2Bsl5%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/portable-net40%2Bsl5%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/portable-net45%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/lib/portable-net45%2Bwp80%2Bwin8%2Bwpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Newtonsoft.Json.6.0.4/tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Owin.1.0/Owin.1.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Owin.1.0/lib/net40/Owin.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Respond.1.2.0/Respond.1.2.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Respond.1.2.0/content/Scripts/respond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/Respond.1.2.0/content/Scripts/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/WebGrease.1.5.2/WebGrease.1.5.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/WebGrease.1.5.2/lib/WebGrease.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/WebGrease.1.5.2/tools/WG.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/bootstrap.3.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/bootstrap.3.0.0/content/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Tools/common.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Tools/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/Tools/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.1.10.2/jQuery.1.10.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packages/jQuery.Validation.1.11.1/jQuery.Validation.1.11.1.nupkg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-616921373">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="asax" value="1" />
+          <entry key="config" value="4" />
+          <entry key="cs" value="5" />
+          <entry key="cshtml" value="9" />
+          <entry key="css" value="1" />
+          <entry key="ico" value="2" />
+          <entry key="jpg" value="4" />
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Asp" value="1" />
+          <entry key="C#" value="5" />
+          <entry key="CSS" value="1" />
+          <entry key="Config" value="4" />
+          <entry key="Image" value="6" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Razor" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="21" />
+          <entry key="cshtml" value="1537" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="21" />
+          <entry key="Razor" value="1537" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2208">
+              <caret line="138" column="10" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+              <folding>
+                <marker date="1542725072729" expanded="true" signature="0:26" ph="@..." />
+                <marker date="1542725072729" expanded="true" signature="28:1275" ph="&lt;section.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="212:1264" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="244:1253" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="280:1238" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="321:1219" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="359:1196" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="668:1169" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1276:5771" ph="&lt;section.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1334:5760" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1371:5749" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1407:2822" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1441:1902" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1496:1878" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1547:1683" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1708:1851" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1919:2352" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="1974:2328" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2025:2154" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2179:2301" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2369:2802" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2424:2778" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2475:2605" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2630:2751" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2835:4270" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2869:3312" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2924:3288" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="2975:3105" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3130:3261" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3330:3768" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3385:3744" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3436:3564" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3589:3717" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3786:4251" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3841:4227" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="3892:4020" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4045:4200" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4283:5734" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4317:4802" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4372:4778" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4423:4561" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4586:4751" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4820:5258" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4875:5234" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="4926:5055" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5080:5207" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5276:5715" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5331:5691" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5382:5523" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5548:5664" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5774:8972" ph="&lt;section.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5850:8961" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5883:8950" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5919:6527" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="5953:6508" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6109:6485" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6151:6458" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6226:6427" ph="&lt;h3.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6540:7298" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6575:6922" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6795:6899" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="6941:7279" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="7161:7256" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="7311:8103" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="7346:7717" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="7566:7694" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="7735:8084" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="7955:8061" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="8117:8931" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="8152:8522" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="8372:8499" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="8540:8912" ph="&lt;div.../&gt;" />
+                <marker date="1542725072729" expanded="true" signature="8760:8889" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Home/Ru.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2608">
+              <caret line="163" column="18" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+              <folding>
+                <marker date="1542729131263" expanded="true" signature="0:26" ph="@..." />
+                <marker date="1542729131263" expanded="true" signature="28:1283" ph="&lt;section.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="212:1272" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="244:1261" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="280:1246" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="321:1227" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="359:1204" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="677:1177" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1284:6352" ph="&lt;section.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1342:6341" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1379:6330" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1415:1905" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1449:1886" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1613:1863" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1655:1836" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1918:3336" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="1952:2409" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2007:2385" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2058:2194" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2219:2358" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2426:2860" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2481:2836" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2532:2661" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2686:2809" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2877:3316" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2932:3292" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="2983:3113" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3138:3265" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3349:4818" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3383:3843" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3438:3819" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3489:3619" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3644:3792" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3861:4301" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3916:4277" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="3967:4095" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4120:4250" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4319:4799" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4374:4775" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4425:4553" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4578:4748" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4831:6315" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4865:5367" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4920:5343" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="4971:5109" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5134:5316" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5385:5837" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5440:5813" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5491:5620" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5645:5786" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5855:6296" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5910:6272" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="5961:6102" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6127:6245" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6355:9566" ph="&lt;section.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6431:9555" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6464:9544" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6500:7070" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6534:7051" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6680:7028" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="6722:7001" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7083:7888" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7118:7505" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7384:7482" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7523:7869" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7743:7846" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7901:8707" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="7936:8307" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="8156:8284" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="8325:8688" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="8545:8665" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="8720:9529" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="8755:9121" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="8975:9098" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="9139:9510" ph="&lt;div.../&gt;" />
+                <marker date="1542729131263" expanded="true" signature="9359:9487" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SocialHelper/Controllers/BlogRuController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="36" />
+              <folding>
+                <marker date="1542728639324" expanded="true" signature="57:267" ph="{...}" />
+                <marker date="1542728639324" expanded="true" signature="104:265" ph="{...}" />
+                <marker date="1542728639324" expanded="true" signature="151:184" ph="{...}" />
+                <marker date="1542728639324" expanded="true" signature="228:261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SocialHelper/Views/BlogRu/HowToInstall.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+              <folding>
+                <marker date="1542732536182" expanded="true" signature="0:69" ph="@..." />
+                <marker date="1542732536182" expanded="true" signature="71:2803" ph="&lt;section.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="121:2792" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="154:2781" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="190:514" ph="&lt;ol.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="527:1164" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="561:1145" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="633:1122" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="675:1095" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="1177:2766" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="1211:1422" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="1439:2747" ph="&lt;div.../&gt;" />
+                <marker date="1542732536182" expanded="true" signature="1477:2724" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SocialHelper/Views/BlogRu/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="26" selection-start-line="4" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <marker date="1542728634411" expanded="true" signature="0:4092" ph="&lt;section.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="48:4080" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="76:4071" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="104:529" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="127:518" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="261:506" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="286:493" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="534:4061" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="557:3492" ph="&lt;!--...--&gt;" />
+                <marker date="1542728634411" expanded="true" signature="629:1129" ph="&lt;a.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="663:1027" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="752:838" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="847:1013" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1035:1118" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1147:1728" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1216:1716" ph="&lt;a.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1250:1614" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1339:1425" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1434:1600" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1622:1705" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1734:2315" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1803:2303" ph="&lt;a.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1837:2201" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="1926:2012" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2021:2187" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2209:2292" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2322:2903" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2391:2891" ph="&lt;a.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2425:2789" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2514:2600" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2609:2775" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2797:2880" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2909:3489" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="2978:3478" ph="&lt;a.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3012:3376" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3101:3187" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3196:3362" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3384:3467" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3498:4050" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3567:4038" ph="&lt;a.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3621:3923" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3724:3810" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3819:3909" ph="&lt;div.../&gt;" />
+                <marker date="1542728634411" expanded="true" signature="3931:4027" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/Home/Ru.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Global.asax" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Controllers/BlogRuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/BlogRu/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/BlogRu/HowToInstall.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SocialHelper/Views/Home/PrivacyPolicy.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SocialHelper/Content/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/SocialHelper/Content/js/jquery.js" />
+        <option value="$PROJECT_DIR$/SocialHelper/Content/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/SocialHelper/App_Start/BundleConfig.cs" />
+        <option value="$PROJECT_DIR$/SocialHelper/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SocialHelper/Views/Home/PrivacyPolicy.cshtml" />
+        <option value="$PROJECT_DIR$/SocialHelper/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/SocialHelper/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SocialHelper/Controllers/BlogRuController.cs" />
+        <option value="$PROJECT_DIR$/SocialHelper/Views/BlogRu/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SocialHelper/Views/Home/Ru.cshtml" />
+        <option value="$PROJECT_DIR$/SocialHelper/Views/BlogRu/HowToInstall.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Content" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Content" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="images" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Content" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="images" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="blog" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Content" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="images" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="blog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ru" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SocialHelper" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb52d37f-edf6-4d1a-972a-2070c4a0a911" name="Default Changelist" comment="" />
+      <created>1542718507892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542718507892</updated>
+      <workItem from="1542718508951" duration="12783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12783000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.18399169" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding>
+            <element signature="e#64113#64313#2" expanded="true" />
+            <element signature="e#64525#64674#2" expanded="true" />
+            <element signature="e#65186#65332#2" expanded="true" />
+            <element signature="e#65638#65804#1" expanded="true" />
+            <element signature="e#80148#80391#2" expanded="true" />
+            <element signature="e#81316#81565#2" expanded="true" />
+            <element signature="e#107171#107361#2" expanded="true" />
+            <element signature="e#107407#107597#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="4222" column="34" lean-forward="true" selection-start-line="4222" selection-start-column="34" selection-end-line="4222" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/App_Start/BundleConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <marker date="1542720051271" expanded="true" signature="54:1066" ph="{...}" />
+            <marker date="1542720051271" expanded="true" signature="84:1064" ph="{...}" />
+            <marker date="1542720051271" expanded="true" signature="247:1060" ph="{...}" />
+            <marker date="1542720051271" expanded="true" signature="260:1054" ph="/* bundles.Add(new ScriptBundle(&quot;~/bundles/jquery&quot;).Include( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Global.asax">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Controllers/BlogRuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <marker date="1542728639324" expanded="true" signature="57:267" ph="{...}" />
+            <marker date="1542728639324" expanded="true" signature="104:265" ph="{...}" />
+            <marker date="1542728639324" expanded="true" signature="151:184" ph="{...}" />
+            <marker date="1542728639324" expanded="true" signature="228:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Home/PrivacyPolicy.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
+          <folding>
+            <marker date="1542722146589" expanded="true" signature="16:37" ph="@..." />
+            <marker date="1542722146589" expanded="true" signature="56:4330" ph="&lt;html.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="63:934" ph="&lt;head.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="935:4322" ph="&lt;body.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="948:1583" ph="&lt;header.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="997:1569" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1033:1554" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1067:1535" ph="&lt;nav.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1140:1511" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1588:3726" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1639:3715" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1675:3700" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="1709:3396" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="2039:3373" ph="&lt;ul.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="3414:3681" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="3452:3658" ph="&lt;div.../&gt;" />
+            <marker date="1542722146589" expanded="true" signature="3500:3631" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Home/Ru.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2608">
+          <caret line="163" column="18" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+          <folding>
+            <marker date="1542729131263" expanded="true" signature="0:26" ph="@..." />
+            <marker date="1542729131263" expanded="true" signature="28:1283" ph="&lt;section.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="212:1272" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="244:1261" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="280:1246" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="321:1227" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="359:1204" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="677:1177" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1284:6352" ph="&lt;section.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1342:6341" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1379:6330" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1415:1905" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1449:1886" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1613:1863" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1655:1836" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1918:3336" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="1952:2409" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2007:2385" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2058:2194" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2219:2358" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2426:2860" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2481:2836" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2532:2661" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2686:2809" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2877:3316" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2932:3292" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="2983:3113" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3138:3265" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3349:4818" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3383:3843" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3438:3819" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3489:3619" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3644:3792" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3861:4301" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3916:4277" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="3967:4095" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4120:4250" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4319:4799" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4374:4775" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4425:4553" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4578:4748" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4831:6315" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4865:5367" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4920:5343" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="4971:5109" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5134:5316" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5385:5837" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5440:5813" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5491:5620" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5645:5786" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5855:6296" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5910:6272" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="5961:6102" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6127:6245" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6355:9566" ph="&lt;section.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6431:9555" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6464:9544" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6500:7070" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6534:7051" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6680:7028" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="6722:7001" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7083:7888" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7118:7505" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7384:7482" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7523:7869" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7743:7846" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7901:8707" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="7936:8307" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="8156:8284" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="8325:8688" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="8545:8665" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="8720:9529" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="8755:9121" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="8975:9098" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="9139:9510" ph="&lt;div.../&gt;" />
+            <marker date="1542729131263" expanded="true" signature="9359:9487" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <marker date="1542722146616" expanded="true" signature="57:314" ph="{...}" />
+            <marker date="1542722146616" expanded="true" signature="102:312" ph="{...}" />
+            <marker date="1542722146616" expanded="true" signature="138:171" ph="{...}" />
+            <marker date="1542722146616" expanded="true" signature="201:234" ph="{...}" />
+            <marker date="1542722146616" expanded="true" signature="275:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <marker date="1542724257810" expanded="true" signature="16:7578" ph="&lt;html.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="23:1657" ph="&lt;head.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="126:770" ph="@..." />
+            <marker date="1542724257810" expanded="true" signature="172:486" ph="{...}" />
+            <marker date="1542724257810" expanded="true" signature="495:770" ph="{...}" />
+            <marker date="1542724257810" expanded="true" signature="1658:7570" ph="&lt;body.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="1669:4043" ph="&lt;header.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="1718:4029" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="1754:4014" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="1788:3995" ph="&lt;nav.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="1863:3971" ph="@..." />
+            <marker date="1542724257810" expanded="true" signature="1909:2939" ph="{...}" />
+            <marker date="1542724257810" expanded="true" signature="1952:2379" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="2401:2917" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="2476:2890" ph="&lt;ul.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="2964:3971" ph="{...}" />
+            <marker date="1542724257810" expanded="true" signature="3007:3442" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="3464:3949" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="3539:3922" ph="&lt;ul.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="4067:6929" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="4118:6918" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="4154:6903" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="4188:6881" ph="@..." />
+            <marker date="1542724257810" expanded="true" signature="4234:5570" ph="{...}" />
+            <marker date="1542724257810" expanded="true" signature="4269:4541" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="4558:5143" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="4682:5120" ph="&lt;ul.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="5160:5552" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="5198:5529" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="5246:5502" ph="&lt;p.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="5591:6881" ph="{...}" />
+            <marker date="1542724257810" expanded="true" signature="5626:5866" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="5883:6466" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="6005:6443" ph="&lt;ul.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="6483:6863" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="6521:6840" ph="&lt;div.../&gt;" />
+            <marker date="1542724257810" expanded="true" signature="6569:6813" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="138" column="10" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+          <folding>
+            <marker date="1542725072729" expanded="true" signature="0:26" ph="@..." />
+            <marker date="1542725072729" expanded="true" signature="28:1275" ph="&lt;section.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="212:1264" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="244:1253" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="280:1238" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="321:1219" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="359:1196" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="668:1169" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1276:5771" ph="&lt;section.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1334:5760" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1371:5749" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1407:2822" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1441:1902" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1496:1878" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1547:1683" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1708:1851" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1919:2352" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="1974:2328" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2025:2154" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2179:2301" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2369:2802" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2424:2778" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2475:2605" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2630:2751" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2835:4270" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2869:3312" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2924:3288" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="2975:3105" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3130:3261" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3330:3768" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3385:3744" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3436:3564" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3589:3717" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3786:4251" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3841:4227" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="3892:4020" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4045:4200" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4283:5734" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4317:4802" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4372:4778" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4423:4561" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4586:4751" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4820:5258" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4875:5234" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="4926:5055" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5080:5207" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5276:5715" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5331:5691" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5382:5523" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5548:5664" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5774:8972" ph="&lt;section.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5850:8961" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5883:8950" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5919:6527" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="5953:6508" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6109:6485" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6151:6458" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6226:6427" ph="&lt;h3.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6540:7298" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6575:6922" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6795:6899" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="6941:7279" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="7161:7256" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="7311:8103" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="7346:7717" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="7566:7694" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="7735:8084" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="7955:8061" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="8117:8931" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="8152:8522" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="8372:8499" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="8540:8912" ph="&lt;div.../&gt;" />
+            <marker date="1542725072729" expanded="true" signature="8760:8889" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/BlogRu/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="26" selection-start-line="4" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <marker date="1542728634411" expanded="true" signature="0:4092" ph="&lt;section.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="48:4080" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="76:4071" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="104:529" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="127:518" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="261:506" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="286:493" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="534:4061" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="557:3492" ph="&lt;!--...--&gt;" />
+            <marker date="1542728634411" expanded="true" signature="629:1129" ph="&lt;a.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="663:1027" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="752:838" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="847:1013" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1035:1118" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1147:1728" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1216:1716" ph="&lt;a.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1250:1614" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1339:1425" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1434:1600" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1622:1705" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1734:2315" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1803:2303" ph="&lt;a.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1837:2201" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="1926:2012" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2021:2187" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2209:2292" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2322:2903" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2391:2891" ph="&lt;a.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2425:2789" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2514:2600" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2609:2775" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2797:2880" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2909:3489" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="2978:3478" ph="&lt;a.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3012:3376" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3101:3187" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3196:3362" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3384:3467" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3498:4050" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3567:4038" ph="&lt;a.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3621:3923" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3724:3810" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3819:3909" ph="&lt;div.../&gt;" />
+            <marker date="1542728634411" expanded="true" signature="3931:4027" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/images/blog-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/images/portfolio-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/images/portfolio-6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Content/images/user-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SocialHelper/Views/BlogRu/HowToInstall.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="63" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+          <folding>
+            <marker date="1542732536182" expanded="true" signature="0:69" ph="@..." />
+            <marker date="1542732536182" expanded="true" signature="71:2803" ph="&lt;section.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="121:2792" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="154:2781" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="190:514" ph="&lt;ol.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="527:1164" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="561:1145" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="633:1122" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="675:1095" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="1177:2766" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="1211:1422" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="1439:2747" ph="&lt;div.../&gt;" />
+            <marker date="1542732536182" expanded="true" signature="1477:2724" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

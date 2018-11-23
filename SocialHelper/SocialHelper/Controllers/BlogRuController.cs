@@ -14,5 +14,10 @@ namespace SocialHelper.Controllers
     {
       return View();
     }
+    
+    public ActionResult HowToDownloadPhotoFromInstagram()
+    {
+      return View();
+    }
   }
 }

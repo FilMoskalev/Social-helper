@@ -64,13 +64,14 @@
           <e p="images" t="Include">
             <e p="blog" t="Include">
               <e p="ru" t="Include">
+                <e p="downloadfrominstagram.jpg" t="Include" />
                 <e p="howtoinstall.jpg" t="Include" />
                 <e p="shopscreen.png" t="Include" />
+                <e p="social.helper.ru_23_11_2018_12_3_29_612.jpg" t="Include" />
+                <e p="social.helper.ru_23_11_2018_12_3_43_36.jpg" t="Include" />
+                <e p="social.helper.ru_23_11_2018_12_4_0_27.jpg" t="Include" />
               </e>
             </e>
-            <e p="blog-1.jpg" t="Include" />
-            <e p="blog-2.jpg" t="Include" />
-            <e p="blog-3.jpg" t="Include" />
             <e p="favicon.ico" t="Include" />
             <e p="flags" t="Include">
               <e p="flag_of_france.png" t="Include" />
@@ -88,12 +89,6 @@
             <e p="full_image_3.jpg" t="Include" />
             <e p="full_image_4.jpg" t="Include" />
             <e p="logo.png" t="Include" />
-            <e p="user-1.jpg" t="Include" />
-            <e p="user-2.jpg" t="Include" />
-            <e p="user-3.jpg" t="Include" />
-            <e p="user-4.jpg" t="Include" />
-            <e p="user-5.jpg" t="Include" />
-            <e p="user-6.jpg" t="Include" />
           </e>
           <e p="js" t="Include">
             <e p="jquery.countTo.js" t="Include" />
@@ -205,6 +200,7 @@
         <e p="Views" t="Include">
           <e p="_ViewStart.cshtml" t="Include" />
           <e p="BlogRu" t="Include">
+            <e p="HowToDownloadPhotoFromInstagram.cshtml" t="Include" />
             <e p="HowToInstall.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
           </e>

@@ -19,5 +19,10 @@ namespace SocialHelper.Controllers
     {
       return View();
     }
+    
+    public ActionResult HowToDownloadStory()
+    {
+      return View();
+    }
   }
 }

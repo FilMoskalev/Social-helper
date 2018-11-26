@@ -160,6 +160,10 @@
     <Content Include="Content\images\blog\ru\social.helper.ru_23_11_2018_12_3_29_612.jpg" />
     <Content Include="Content\images\blog\ru\social.helper.ru_23_11_2018_12_3_43_36.jpg" />
     <Content Include="Content\images\blog\ru\social.helper.ru_23_11_2018_12_4_0_27.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_13_12_24_968.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_13_12_42_359.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_15_11_59_179.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_15_12_8_131.jpg" />
     <Content Include="Content\images\favicon.ico" />
     <Content Include="Content\images\flags\flag_of_france.png" />
     <Content Include="Content\images\flags\flag_of_germany.png" />
@@ -264,6 +268,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Views\BlogRu\HowToDownloadPhotoFromInstagram.cshtml" />
+    <Content Include="Views\BlogRu\HowToDownloadStory.cshtml" />
     <Content Include="Views\BlogRu\HowToInstall.cshtml" />
     <Content Include="Views\BlogRu\Index.cshtml" />
     <Content Include="Views\Home\PrivacyPolicy.cshtml" />

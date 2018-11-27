@@ -65,7 +65,13 @@
           <e p="images" t="Include">
             <e p="blog" t="Include">
               <e p="ru" t="Include">
+                <e p="2.jpg" t="Include" />
+                <e p="3.jpg" t="Include" />
+                <e p="4.jpg" t="Include" />
+                <e p="5.jpg" t="Include" />
+                <e p="6.jpg" t="Include" />
                 <e p="downloadfrominstagram.jpg" t="Include" />
+                <e p="How to download-01.jpg" t="Include" />
                 <e p="howtoinstall.jpg" t="Include" />
                 <e p="shopscreen.png" t="Include" />
                 <e p="social.helper.ru_23_11_2018_12_3_29_612.jpg" t="Include" />
@@ -207,6 +213,7 @@
         <e p="Views" t="Include">
           <e p="_ViewStart.cshtml" t="Include" />
           <e p="BlogRu" t="Include">
+            <e p="HowToDownloadLiveReplay.cshtml" t="Include" />
             <e p="HowToDownloadPhotoFromInstagram.cshtml" t="Include" />
             <e p="HowToDownloadStory.cshtml" t="Include" />
             <e p="HowToInstall.cshtml" t="Include" />

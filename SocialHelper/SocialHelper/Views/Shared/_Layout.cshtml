@@ -4,15 +4,13 @@
     <meta charset="utf-8" />
     <title>@ViewBag.Title Social Helper Extension</title>
     
-    @if (@Request.Url.AbsolutePath.Contains("Ru"))
+    @if (@ViewBag.Description != null)
     {
-    <meta name="description" content="Успешное продвижение аккаунта. Возможность скачать любой контент из инсты. Веди свою статистику профиля. Загрузка фотографий с ПК" />
-    <meta name="keywords" content="Social helper extension, Social helper, раскрутка профиля в инстаграм, загрузка фотографий" />
+    <meta name="description" content="@ViewBag.Description" />
     }
     else
     {
     <meta name="description" content="Successful promotion account. Download any content from IG. Make your profile stats. Upload photo from PC." />
-    <meta name="keywords" content="Social helper extension, social helper, promotion of account, upload photo" />
     }
     <link rel="icon" href="/Content/images/favicon.ico" type="image/x-icon" />
     <meta name="google-site-verification" content="YJ7qXpSo297v8C3akPZEBLu_b8gAsFOm0DOZerG21ko" />
@@ -106,6 +104,8 @@
                     <div class="col-md-12">
                         <p class="copy-right">
                             <a href="/Home/PrivacyPolicy/">Политика Конфиденциальности</a>
+                            <span> | </span>
+                            <a href="/BlogRu/">Блог</a>
                             <hr />
                             &copy; 2018 Social Helper. Все права защищены.<br>
                         </p>

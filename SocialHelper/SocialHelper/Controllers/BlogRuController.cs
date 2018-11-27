@@ -24,5 +24,10 @@ namespace SocialHelper.Controllers
     {
       return View();
     }
+    
+    public ActionResult HowToDownloadLiveReplay()
+    {
+      return View();
+    }
   }
 }

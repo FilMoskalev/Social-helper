@@ -170,6 +170,9 @@
     <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_13_12_42_359.jpg" />
     <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_15_11_59_179.jpg" />
     <Content Include="Content\images\blog\ru\social.helper.ru_26_11_2018_15_12_8_131.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_28_11_2018_11_45_18_82.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_28_11_2018_11_45_34_818.jpg" />
+    <Content Include="Content\images\blog\ru\social.helper.ru_28_11_2018_11_45_41_754.jpg" />
     <Content Include="Content\images\favicon.ico" />
     <Content Include="Content\images\flags\flag_of_france.png" />
     <Content Include="Content\images\flags\flag_of_germany.png" />
@@ -277,6 +280,7 @@
     <Content Include="Views\BlogRu\HowToDownloadPhotoFromInstagram.cshtml" />
     <Content Include="Views\BlogRu\HowToDownloadStory.cshtml" />
     <Content Include="Views\BlogRu\HowToInstall.cshtml" />
+    <Content Include="Views\BlogRu\HowToWatchStoryIncognito.cshtml" />
     <Content Include="Views\BlogRu\Index.cshtml" />
     <Content Include="Views\Home\PrivacyPolicy.cshtml" />
     <Content Include="Views\Home\Ru.cshtml" />

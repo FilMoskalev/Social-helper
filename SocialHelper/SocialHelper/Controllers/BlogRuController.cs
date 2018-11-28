@@ -29,5 +29,10 @@ namespace SocialHelper.Controllers
     {
       return View();
     }
+    
+    public ActionResult HowToWatchStoryIncognito()
+    {
+      return View();
+    }
   }
 }

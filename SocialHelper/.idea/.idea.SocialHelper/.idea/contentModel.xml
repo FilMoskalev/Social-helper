@@ -81,6 +81,9 @@
                 <e p="social.helper.ru_26_11_2018_13_12_42_359.jpg" t="Include" />
                 <e p="social.helper.ru_26_11_2018_15_11_59_179.jpg" t="Include" />
                 <e p="social.helper.ru_26_11_2018_15_12_8_131.jpg" t="Include" />
+                <e p="social.helper.ru_28_11_2018_11_45_18_82.jpg" t="Include" />
+                <e p="social.helper.ru_28_11_2018_11_45_34_818.jpg" t="Include" />
+                <e p="social.helper.ru_28_11_2018_11_45_41_754.jpg" t="Include" />
               </e>
             </e>
             <e p="favicon.ico" t="Include" />
@@ -217,6 +220,7 @@
             <e p="HowToDownloadPhotoFromInstagram.cshtml" t="Include" />
             <e p="HowToDownloadStory.cshtml" t="Include" />
             <e p="HowToInstall.cshtml" t="Include" />
+            <e p="HowToWatchStoryIncognito.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Home" t="Include">

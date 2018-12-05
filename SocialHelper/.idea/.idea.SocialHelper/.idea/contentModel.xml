@@ -66,6 +66,10 @@
             <e p="blog" t="Include">
               <e p="ru" t="Include">
                 <e p="2.jpg" t="Include" />
+                <e p="2018-12-05_11_38_48.jpg" t="Include" />
+                <e p="2018-12-05_11_43_55.jpg" t="Include" />
+                <e p="2018-12-05_11_50_18.jpg" t="Include" />
+                <e p="2018-12-05_11_55_12.jpg" t="Include" />
                 <e p="3.jpg" t="Include" />
                 <e p="4.jpg" t="Include" />
                 <e p="5.jpg" t="Include" />
@@ -84,6 +88,11 @@
                 <e p="social.helper.ru_28_11_2018_11_45_18_82.jpg" t="Include" />
                 <e p="social.helper.ru_28_11_2018_11_45_34_818.jpg" t="Include" />
                 <e p="social.helper.ru_28_11_2018_11_45_41_754.jpg" t="Include" />
+                <e p="social.helper.ru_5_12_2018_10_38_57_93.jpg" t="Include" />
+                <e p="social.helper.ru_5_12_2018_10_39_14_397.jpg" t="Include" />
+                <e p="social.helper.ru_5_12_2018_10_39_37_876.jpg" t="Include" />
+                <e p="social.helper.ru_5_12_2018_10_39_46_163.jpg" t="Include" />
+                <e p="social.helper.ru_5_12_2018_10_39_5_974.jpg" t="Include" />
               </e>
             </e>
             <e p="favicon.ico" t="Include" />
@@ -220,6 +229,7 @@
             <e p="HowToDownloadPhotoFromInstagram.cshtml" t="Include" />
             <e p="HowToDownloadStory.cshtml" t="Include" />
             <e p="HowToInstall.cshtml" t="Include" />
+            <e p="HowToSetAccess.cshtml" t="Include" />
             <e p="HowToWatchStoryIncognito.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
           </e>

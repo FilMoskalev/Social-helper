@@ -34,5 +34,10 @@ namespace SocialHelper.Controllers
     {
       return View();
     }
+    
+    public ActionResult HowToSetAccess()
+    {
+      return View();
+    }
   }
 }
